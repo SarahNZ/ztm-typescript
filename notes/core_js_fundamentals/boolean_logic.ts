@@ -1,0 +1,1 @@
+//TypeScript and Python both evaluate logical expressions left to right with short-circuit behavior.
